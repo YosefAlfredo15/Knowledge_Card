@@ -68,7 +68,7 @@
           answerContainers[questionNumber].style.color = 'red';
 
           resultsContainer.innerHTML = "Jawaban anda Salah. Jawaban Yang benar adalah passing (umpan), dribbling, shooting (menembak), dan heading (menyundul). (Silahkan Mengambil kartu tantangan)"
-          document.getElementById("back").innerHTML = '<a href="Challenge.html" target="_random"><img class ="tengah" src="D:/Knowledge Card/foto/cd.png" style="width:200px;height:250px;">'
+          document.getElementById("back").innerHTML = '<a href="Challenge.html" target="_random"><img class ="tengah" src="foto/cd.png" style="width:200px;height:250px;">'
         }
       });
   
